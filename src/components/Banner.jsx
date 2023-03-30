@@ -3,7 +3,7 @@ import "./Banner.css"
 export default function Banner() {
     return (
         <div className="hero" style={{
-            backgroundImage: `url("./images/Photo.png")`, backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '80vh'}}>
+            backgroundImage: `url("./images/Photo.png")`, backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '90vh'}}>
             <div className="" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', backgroundColor:' rgba(9, 18, 66, 0.25)' , fontSize:'14px'}}>
                 <div className="" style={{width: '400px', marginLeft:'100px'}}>
                                     <ul style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', color:' #FFFFFF' }} >

@@ -4,3 +4,15 @@ color: white;
 margin-left:5% ;
 margin-top: 10px;
 }
+.pBold{
+    font-size: 12px ;
+    font-weight: bold;
+    padding: 10px;
+}
+.spaces{
+    margin-left: 3%;
+    display: flex;
+}
+.downP{
+    padding-top: 35%;
+}
