@@ -5,6 +5,9 @@ import Counter from './components/Counter';
 import Header from './components/Header';
 import Services  from './components/Services';
 import Project  from './components/Project';
+import Testimonial from './components/Testimonial';
+import ChooseUs from './components/ChooseUs';
+import Blogs from './components/Blogs';
 
 function App() {
   return (
@@ -16,6 +19,11 @@ function App() {
       <Services/>
       <Counter/>
       <Project/>
+      <Testimonial/>
+      <ChooseUs/>
+      <Blogs/>
+      <Blogs/>
+      
     
     </div>
   );
